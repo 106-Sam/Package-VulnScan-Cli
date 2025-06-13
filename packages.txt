@@ -1,0 +1,13 @@
+# Sample packages file
+# Add one package name per line
+# Lines starting with # are ignored
+
+python
+node
+nginx
+redis
+postgres
+curl
+git
+busybox
+alpine
